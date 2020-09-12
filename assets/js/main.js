@@ -2,7 +2,7 @@ const $cells = document.querySelectorAll(".cell"),
  $banner = document.querySelector(".containerwinner"),
  $bannerwin = document.querySelector("#winner"),
  $reset = document.querySelector(".reset");
- console.log('cambios con git?');
+ 
 
 let x = "X";
 let o = "O";
